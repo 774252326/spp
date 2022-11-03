@@ -1,1 +1,1 @@
-wget www.google.com
+wget www.youtube.com
